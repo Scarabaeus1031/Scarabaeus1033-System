@@ -27,6 +27,11 @@ Es ist das erste physikalische Modul im Scarabäus-System, entwickelt für offen
 
 ## 🔗 Internal Structure
 
+---
+
+## 📄 Dokumentierte Experimente
+
+- 🧪 [Pendel über Wasserdampf (vapor pendulum setup)](../CORE/lunar-kern/pendel-setup_vapor.md)
 - `CORE/` – Aufbaupläne, Materialien, Kinderfassung (in Arbeit)  
 - `IMAGES/` – Visuals & Illustrationen (folgt)  
 - `DOCS/manifest.md` – Ursprungsdokument (verlinkt)  
