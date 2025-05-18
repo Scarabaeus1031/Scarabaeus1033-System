@@ -90,6 +90,8 @@ Mögliches Neutrinofeld / kosmischer Impuls
 
 “Between darkness and silence, the Moon leaves its fingerprint — not in force, but in form.”
 
+![AADBC98B-67AC-4246-8D2A-BFDEFAD4602B](https://github.com/user-attachments/assets/4289af9e-fe5d-46a7-b583-bea630fe7ba7)
+
 ⸻
 
 📁 Source
