@@ -107,7 +107,15 @@ It serves as a narrative and symbolic contribution to the LUNAR-KERN framework.
 ![51542768-D100-47A4-B849-69F226E787F4](https://github.com/user-attachments/assets/9d0695f7-ce87-4da8-92d3-dacc22ddbf99)
 ![119E22C9-3BA1-43A3-89F2-161169780921](https://github.com/user-attachments/assets/b404424d-36dc-4343-9a62-f91699d57a37)
 
+## 🌫️ Lunar Growth Structure (Symbolic)
 
+**EN:**  
+This 3D-inspired visualization shows how aluminum may act like a lunar growth material — reflective like snow, fractal like coral, expanding like a moonfield.  
+It hints at how resonance may crystallize in visible geometric forms.
+
+**DE:**  
+Diese 3D-inspirierte Visualisierung zeigt Aluminium als lunaren Wachstumsstoff – reflektiv wie Schnee, fraktal wie eine Koralle, expandierend wie ein Mondfeld.  
+Sie deutet an, wie Resonanz sich in sichtbare geometrische Formen kristallisieren kann.
 
 ## 📁 Source
 
