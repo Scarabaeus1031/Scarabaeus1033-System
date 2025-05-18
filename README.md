@@ -48,7 +48,7 @@ MANIFEST/     → Philosophie, Ursprung, Schutzstruktur
 
 ## 🌐 Projektquelle
 
-🪲 Domain: [www.scarabaeus1031.net](https://www.scarabaeus1033.net)  
+🪲 Domain: [[www.scarabaeus1031.net](https://www.scarabaeus1033.net](https://scarabaeus1033.net))  
 📜 Manifest: [`MANIFEST/`-Ordner in diesem Repository](./MANIFEST/)
 
 ---
