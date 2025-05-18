@@ -71,6 +71,10 @@ Sichtbarmachung einer temperaturinduzierten Pendelbewegung über erhitztem Wasse
 - Add salt or minerals to water → change vapor behavior  
 - Use multiple pendulums (resonance chains)
 
+![4F12187D-83E7-4C12-B484-D4A4F54DCCC2](https://github.com/user-attachments/assets/2f59bf8b-7b76-4d93-8136-5ef1f72f58d5)
+![030FF8DA-379D-4367-9255-0519A6A688C3](https://github.com/user-attachments/assets/12d3e48f-af2e-450f-8bcd-9a9cea753d8e)
+
+
 ---
 
 ## 📁 Source
