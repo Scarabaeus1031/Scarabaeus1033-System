@@ -1,67 +1,66 @@
-# lunar-kern-framework
+# 🪲 SCARABÄUS-SYSTEM
 
-Offenes Framework für Temperaturresonanz und DIY-Wissenschaft
+**Language / Sprache: English 🇬🇧 / Deutsch 🇩🇪**
 
-# 🌕 LUNAR-KERN FRAMEWORK
+A modular, open science framework exploring resonance through geometry, time, temperature, material interaction, and symbolic logic.
 
-**Ein offenes Forschungsprojekt zur Sichtbarmachung kosmischer Resonanz durch Temperatur, Geometrie, Zeit und Symbolik.**
-
----
-
-## 🪲 Über das Projekt
-
-**LUNAR-KERN** ist ein analoges Experimentier- und Denkmodell, das neue physikalische und mathematische Wege erforscht. Es basiert auf der Idee, dass Temperaturachsen, Materialien wie Aluminium und geometrische Resonanzformen miteinander verbunden sind – sichtbar gemacht in Form von Pendeln, Gittern, harmonischen Mustern und DIY-Versuchen.
+Ein modulares Open-Science-System zur Erforschung von Resonanz – über Geometrie, Zeit, Temperatur, Materialinteraktion und symbolische Ordnung.
 
 ---
 
-## 🎯 Ziel
+## 🌐 VISION / VISION
 
-- Resonanz ohne Strom sichtbar machen  
-- Temperatur als Kraftquelle untersuchen  
-- Aluminium als thermische Antenne erforschen  
-- Felder, Zyklen und kosmische Frequenzen verknüpfen  
-- Wissenschaft mit Symbolik, Kunst und Didaktik vereinen
+**EN:**  
+The Scarabäus-System unites interdisciplinary research into a living knowledge architecture:  
+Temperature becomes force, numbers become resonance, materials become antennas.  
+Each module explores a unique field of interaction – scientific, symbolic, didactic.
 
----
-
-## 📦 Ordnerstruktur
-CORE/         → Experimente, Aufbaupläne, Kinderversion
-MATH/         → Formeln, Prime-Zyklen, R/T-Kopplungen
-PHYSIK/       → Temperaturachsen, Aluminium, Felder
-GEOMETRIE/    → Golden Polygons, Apple-Wheel, Visuals
-ZEIT/         → Kalenderbrüche, 1836, Frequenzraster
-SPRACHE/      → Begriffe, Codierung, Resonanzsymbolik
-NAVIGATION/   → Rödelheim, Sternkarten, Projektionen
-MANIFEST/     → Philosophie, Ursprung, Schutzstruktur
+**DE:**  
+Das Scarabäus-System vereint interdisziplinäre Forschung in einer lebendigen Wissensarchitektur:  
+Temperatur wird zur Kraft, Zahlen werden zu Resonanz, Materialien zu Antennen.  
+Jedes Modul erforscht ein eigenes Feld – wissenschaftlich, symbolisch, didaktisch.
 
 ---
 
-## 📜 Lizenz
+## 🔹 MODULES / MODULE
 
-**Creative Commons BY-NC-SA 4.0**  
-> Du darfst alles teilen, weiterentwickeln und nutzen –  
-> aber nicht kommerziell, und nur mit Namensnennung & gleicher Lizenz.  
+| Module                   | Description (EN)                                   | Beschreibung (DE)                               | Status |
+|--------------------------|----------------------------------------------------|--------------------------------------------------|--------|
+| `🌕 lunar-kern-framework` | Thermal resonance, pendulums, aluminum, water      | Thermo-Resonanz, Pendel, Aluminium, Wasser       | ✅ |
+| `📐 apple-wheel-geometry` | Rotational harmonics, golden shapes                | Rotationsharmonik, Goldene Formen                | ⬜ |
+| `🔢 prime-grid-harmonics` | Prime cycles, P = R / T, 24-grid resonance          | Primzahlen, R/T = P, 24er-Gitter                 | ⬜ |
+| `🌍 stellar-navigation`   | Rödelheim projections, celestial alignments        | Rödelheim-Projektion, Himmelsachsen              | ⬜ |
 
-🔗 [Vollständige Lizenz anzeigen](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
----
-
-## 🌐 Projektquelle
-
-🪲 Domain: [[www.scarabaeus1031.net](https://www.scarabaeus1033.net](https://scarabaeus1033.net))  
-📜 Manifest: [`MANIFEST/`-Ordner in diesem Repository](./MANIFEST/)
+*Each module is self-contained and licensed under the Scarabäus-System.*  
+*Jedes Modul ist eigenständig und unter der Scarabäus-System-Lizenz geschützt.*
 
 ---
 
-## 🤝 Mitmachen
+## 📜 LICENSE & PROTECTION / LIZENZ & SCHUTZ
 
-- Du möchtest eigene Resonanzversuche teilen?
-- Du hast Fragen zu Temperaturachsen, Zyklen oder Gittern?
-- Du willst mitdenken, dokumentieren oder weiterentwickeln?
+This entire framework is published under  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).**
 
-👉 Kontaktiere Scarabaeus1031 oder Scarabaeus1033 über github oder starte direkt einen Pull Request.
+Das gesamte System steht unter der  
+**Creative Commons Lizenz: Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International.**
+
+🔗 [Full License (EN)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+🔗 [Lizenz ansehen (DE)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+
+All institutional or commercial use requires written permission by:  
+**Scarabäus1033 / Thomas K.R. Hofmann, Frankfurt am Main – Rödelheim**
 
 ---
 
-## 📡 Resonanz beginnt, wenn Wissen fließt.
-**Scarabäus 1033**
+## 🧾 STRUCTURE / STRUKTUR
+
+```bash
+scarabaeus-system/
+├── LICENSE.md               ← Globaler Lizenztext
+├── README.md                ← Diese Projektübersicht
+├── MODULES/                 ← Einzelne Forschungsprojekte
+│   └── lunar-kern-framework.md
+├── DOCS/
+│   ├── scarabaeus-manifest.md   ← Ursprung & Idee
+│   ├── roadmap.md               ← Zukunftspläne
+│   └── symbols.md               ← Begriffserklärungen
