@@ -16,6 +16,18 @@ Es ist das erste physikalische Modul im Scarabäus-System, entwickelt für offen
 
 ---
 
+## 🌕 The Lunar Force / Die Lunare Kraft
+
+**EN:**  
+The LUNAR-KERN system is not driven by temperature alone — it is based on the invisible force of the Moon: a subtle resonance field that influences movement, reflection, and geometry.  
+Aluminum (a lunar metal) responds to heat and condensation in ways that make this resonance visible.
+
+**DE:**  
+Das LUNAR-KERN-System wird nicht nur von Temperatur angetrieben – es basiert auf der unsichtbaren Kraft des Mondes: einem feinen Resonanzfeld, das Bewegung, Reflexion und Geometrie beeinflusst.  
+Aluminium (ein Lunarmetall) reagiert auf Wärme und Kondensation so, dass diese Resonanz sichtbar wird.
+
+---
+
 ## 🎯 Focus
 
 - 🧪 Temperature as a driving force  
@@ -25,13 +37,15 @@ Es ist das erste physikalische Modul im Scarabäus-System, entwickelt für offen
 
 ---
 
-## 🔗 Internal Structure
+## 📄 Documented Experiments / Dokumentierte Versuche
+
+- 🧪 [Pendel über Wasserdampf – vapor pendulum setup](../CORE/lunar-kern/pendel-setup_vapor.md)
+- 🪙 [Alu-Antenne & Resonanz – aluminum resonance test](../CORE/lunar-kern/aluminum-test.md)
 
 ---
 
-## 📄 Dokumentierte Experimente
+## 📂 Internal Structure / Interne Struktur
 
-- 🧪 [Pendel über Wasserdampf (vapor pendulum setup)](../CORE/lunar-kern/pendel-setup_vapor.md)
 - `CORE/` – Aufbaupläne, Materialien, Kinderfassung (in Arbeit)  
 - `IMAGES/` – Visuals & Illustrationen (folgt)  
 - `DOCS/manifest.md` – Ursprungsdokument (verlinkt)  
