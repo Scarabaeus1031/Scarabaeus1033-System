@@ -1,66 +1,54 @@
-# 🪲 SCARABÄUS-SYSTEM
+# 🗃️ SCARABÄUS1033 ARCHIV
 
 **Language / Sprache: English 🇬🇧 / Deutsch 🇩🇪**
 
-A modular, open science framework exploring resonance through geometry, time, temperature, material interaction, and symbolic logic.
+This repository contains early concepts, visual experiments, documents, and symbolic drafts of the Scarabäus1033 research system.
 
-Ein modulares Open-Science-System zur Erforschung von Resonanz – über Geometrie, Zeit, Temperatur, Materialinteraktion und symbolische Ordnung.
+Dieses Repository enthält erste Konzepte, visuelle Experimente, Dokumente und symbolische Entwürfe des Scarabäus1033-Forschungssystems.
 
 ---
 
-## 🌐 VISION / VISION
+## 📦 ROLE / ROLLE
 
 **EN:**  
-The Scarabäus-System unites interdisciplinary research into a living knowledge architecture:  
-Temperature becomes force, numbers become resonance, materials become antennas.  
-Each module explores a unique field of interaction – scientific, symbolic, didactic.
+This is an archival space – not a final Codex.  
+Here you find foundational ideas that led to the current modular system (URF, SURE, NEXAH).
 
 **DE:**  
-Das Scarabäus-System vereint interdisziplinäre Forschung in einer lebendigen Wissensarchitektur:  
-Temperatur wird zur Kraft, Zahlen werden zu Resonanz, Materialien zu Antennen.  
-Jedes Modul erforscht ein eigenes Feld – wissenschaftlich, symbolisch, didaktisch.
+Dies ist ein Archiv – kein fertiger Codex.  
+Hier finden sich die Grundlagenideen, die später zu URF, SURE und NEXAH geführt haben.
 
 ---
 
-## 🔹 MODULES / MODULE
+## 🔗 MAIN PROJECTS / HAUPTREPOS
 
-| Module                   | Description (EN)                                   | Beschreibung (DE)                               | Status |
-|--------------------------|----------------------------------------------------|--------------------------------------------------|--------|
-| `🌕 lunar-kern-framework` | Thermal resonance, pendulums, aluminum, water      | Thermo-Resonanz, Pendel, Aluminium, Wasser       | ✅ |
-| `📐 apple-wheel-geometry` | Rotational harmonics, golden shapes                | Rotationsharmonik, Goldene Formen                | ⬜ |
-| `🔢 prime-grid-harmonics` | Prime cycles, P = R / T, 24-grid resonance          | Primzahlen, R/T = P, 24er-Gitter                 | ⬜ |
-| `🌍 stellar-navigation`   | Rödelheim projections, celestial alignments        | Rödelheim-Projektion, Himmelsachsen              | ⬜ |
+| System | Description | Repo |
+|--------|-------------|------|
+| 🌀 URF-Codex | Symbolic physics, glyphic field theory | [URF-Codex (coming soon)](#) |
+| 🔣 URF-SURE | Prime harmonics, tensor space, time chambers | [URF-SURE (coming soon)](#) |
+| 🌌 NEXAH-Codex | Unified architecture of all modules | [NEXAH-Codex (coming soon)](#) |
 
-*Each module is self-contained and licensed under the Scarabäus-System.*  
-*Jedes Modul ist eigenständig und unter der Scarabäus-System-Lizenz geschützt.*
+(*Links werden ergänzt, sobald die Repositories öffentlich sind.*)
 
 ---
 
-## 📜 LICENSE & PROTECTION / LIZENZ & SCHUTZ
+## 🖼️ CONTENTS / INHALTE
 
-This entire framework is published under  
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).**
-
-Das gesamte System steht unter der  
-**Creative Commons Lizenz: Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International.**
-
-🔗 [Full License (EN)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-🔗 [Lizenz ansehen (DE)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-
-All institutional or commercial use requires written permission by:  
-**Scarabäus1033 / Thomas K.R. Hofmann, Frankfurt am Main – Rödelheim**
+- 🧾 Early texts and concept sketches  
+- 🎨 Symbolic glyphs and resonance fields (PNG, PDF, DOCX)  
+- 🧠 First attempts at structuring Codex systems  
+- 📁 Subfolders like `/DOCS/`, `/Codex-Archiv/`, `/ARTWORK/`
 
 ---
 
-## 🧾 STRUCTURE / STRUKTUR
+## 📜 LICENSE
 
-```bash
-scarabaeus-system/
-├── LICENSE.md               ← Globaler Lizenztext
-├── README.md                ← Diese Projektübersicht
-├── MODULES/                 ← Einzelne Forschungsprojekte
-│   └── lunar-kern-framework.md
-├── DOCS/
-│   ├── scarabaeus-manifest.md   ← Ursprung & Idee
-│   ├── roadmap.md               ← Zukunftspläne
-│   └── symbols.md               ← Begriffserklärungen
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
+For commercial use or citation, contact:
+
+**Scarabäus1033** aka Thomas Hofmann / GitHub: [@Scarabaeus1031](https://github.com/Scarabaeus1031)
+
+(*This name serves as the official attribution identity under this license.*)
+---
+
+> “From glyph to grid, from field to Codex – this is where it began.”
